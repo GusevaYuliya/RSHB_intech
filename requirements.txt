@@ -1,0 +1,6 @@
+aiogram==2.25.2
+scikit-learn
+pymorphy3
+pandas
+Levenshtein
+nltk
